@@ -26,6 +26,9 @@ export default class mobileCenterTestApp extends Component {
           Press Cmd+R to reload,{'\n'}
           Cmd+D or shake for dev menu
         </Text>
+        <Text>
+          YO! This is mobile center BITCH!
+        </Text>
       </View>
     );
   }
